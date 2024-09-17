@@ -9,9 +9,9 @@ NLP Techniques: Regular expressions and Named Entity Recognition (NER) models ar
 Clustering Analysis: K-means clustering groups similar job types based on skills and requirements.
 Salary Prediction: Machine learning models, including linear regression and random forest, are used to predict salaries based on job postings.
 ### Technologies Used
-Python: For data analysis, manipulation, and machine learning.
-Pandas: For data cleaning and manipulation.
-Scikit-learn: For clustering (K-means) and predictive modeling (linear regression, random forest).
-NLTK: For natural language processing (NLP) tasks such as stopword removal and tokenization.
-Transformers: For Named Entity Recognition (NER) to extract salary information.
-Matplotlib & Seaborn: For visualizations of job trends, salaries, and skill distributions.
+* Python: For data analysis, manipulation, and machine learning.
+* Pandas: For data cleaning and manipulation.
+* Scikit-learn: For clustering (K-means) and predictive modeling (linear regression, random forest).
+* NLTK: For natural language processing (NLP) tasks such as stopword removal and tokenization.
+* Transformers: For Named Entity Recognition (NER) to extract salary information.
+* Matplotlib & Seaborn: For visualizations of job trends, salaries, and skill distributions.
